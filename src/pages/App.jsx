@@ -31,8 +31,8 @@ const imgAlt = isLightMode ? "Imagem no modo CLaro" : "Imagem no modo Escuro"
 
             <div id="links">
              <ul>
-                <Links link={"https://github.com/di0rio"}>GitHub</Links>
-                <Links link={"https://www.instagram.com/di0riocaua/"}>Instagram</Links>
+                <Links link={"https://dev-link-react.vercel.app"}>GitHub</Links>
+                <Links link={"https://www.instagram.com/edufilippi_skt/"}>Instagram</Links>
                 <Links link={"https://open.spotify.com/user/31ckrdczysoanu435f7tkpz46ngy"}>Spotify</Links>
                 <Links link={"https://github.com/EduFilippi?tab=repositories"}>Projetos</Links>
              </ul>
